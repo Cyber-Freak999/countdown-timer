@@ -3,7 +3,7 @@ const hoursEl = document.getElementById('hours');
 const minsEl = document.getElementById('mins');
 const secondsEl = document.getElementById('seconds');
 
-const myDay = "16 Oct 2022";
+const myDay = "01 Jan 2023";
 
 function countdown() {
     const myDayDate = new Date(myDay);
